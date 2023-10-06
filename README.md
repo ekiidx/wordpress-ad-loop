@@ -1,2 +1,2 @@
 # wordpress-ad-loop
-Loop to insert a post from a different WordPress post type after every nth post. Useful for inserting ads every nth post.
+Insert a custom post type every nth post. Useful for inserting ads on a blog index page.
